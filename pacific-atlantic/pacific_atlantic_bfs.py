@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
+'''Module defines leetcode problem.'''
 import time
 from typing import List
 from collections import deque
 
 class Solution:
+    '''class `Solution`.'''
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        '''return list of intersect coordinates between
+        pacific and atlantic ocean
+        '''
         ROWS = len(heights)
         COLS = len(heights[0])
 
