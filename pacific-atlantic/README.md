@@ -14,6 +14,11 @@
     Return a 2D list of grid coordinates result,
     where result[i] = [ri, ci] denotes that rain water can flow from cell (ri, ci) to both the Pacific and Atlantic oceans.
 
+## Demo:
+
+![3d](./pacific_atlantic3d.png)
+![2d](./pacific_atlantic2d.png)
+
 ## Learning Objectives:
 
 - breadth-first-search algorithm
