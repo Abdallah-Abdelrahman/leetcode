@@ -17,7 +17,7 @@
 ## Demo:
 
 ![3d](./pacific_atlantic3d.png)
-![2d](./pacific_atlantic2d.png)
+![2d](./pacific_atlantic_2d.png)
 
 ## Learning Objectives:
 
