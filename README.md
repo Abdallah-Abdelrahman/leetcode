@@ -1,3 +1,3 @@
 # Leetcode
 
-Solve leetcode problems, to advance problem-solving skills.
+Collection of [leetcode](https://leetcode.com/) problems to enhance problems-solving skill.
