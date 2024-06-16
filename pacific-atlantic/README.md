@@ -28,4 +28,4 @@
 
 `medium`
 ## Link:
-[problem on leetcode](https://leetcode.com/problems/pacific-atlantic-water-flow/submissions/1288894272/?source=submission-noac)
+[problem on leetcode](https://leetcode.com/problems/pacific-atlantic-water-flow/)
