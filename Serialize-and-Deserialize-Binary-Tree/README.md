@@ -8,6 +8,7 @@ Design an algorithm to serialize and deserialize a binary tree. There is no rest
 ## Examples:
 
 ![Example Tree](tree.png)
+
 Input: `root = [1,2,3,null,null,4,5]`
 Output: `[1,2,3,null,null,4,5]`
 
