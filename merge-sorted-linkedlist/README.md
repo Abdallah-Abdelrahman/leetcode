@@ -26,7 +26,7 @@ merging them into one sorted list:
 
 `hard`
 
-## Learning Ojbectives:
+## Learning Objectives:
 
 + Linkedlist
 + heap data structure
