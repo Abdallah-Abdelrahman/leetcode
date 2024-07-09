@@ -26,6 +26,11 @@ merging them into one sorted list:
 
 `hard`
 
+## Learning Ojbectives:
+
++ Linkedlist
++ heap data structure
+
 ## Link:
 
 [problem on leetcode](https://leetcode.com/problems/merge-k-sorted-lists/)
