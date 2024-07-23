@@ -48,10 +48,7 @@ To solve this problem efficiently, we can use a stack-based approach that helps 
     - Space complexity: O(n) due to the use of the stack.
 
 ## Learning Objectives:
-
-<!-- TODO
-The must be in a bullet point
--->
+   - Monotonic stack.
 
 ## Link:
 
