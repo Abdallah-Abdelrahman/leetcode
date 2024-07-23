@@ -1,18 +1,23 @@
 # 84. Largest Rectangle in Histogram
-**Hard**
 
 Given an array of integers `heights` representing the heights of bars in a histogram where the width of each bar is 1, you need to find the area of the largest rectangle that can be formed in the histogram.
 
-## Problem Description:
+**_Description_**:
+
 Given an array `heights` of size `n`, each element `heights[i]` represents the height of the bar charted at position `i`. The width of each bar is assumed to be 1 unit. Your task is to compute the area of the largest rectangle in the histogram formed by these bars.
 
-Example 1:
+## Example:
 
-Input: heights = [2,1,5,6,2,3]
-Output: 10
-Explanation: The above is a histogram where width of each bar is 1.
+_Input_: `heights = [2,1,5,6,2,3]`
+
+_Output_: `10`
+
+_Explanation_: 
+
+The below image is a histogram where width of each bar is 1.
 The largest rectangle is shown in the red area, which has an area = 10 units.
-![example 1](https://assets.leetcode.com/uploads/2021/01/04/histogram.jpg)
+
+![example ](https://assets.leetcode.com/uploads/2021/01/04/histogram.jpg)
 
 Constraints:
 
@@ -42,8 +47,13 @@ To solve this problem efficiently, we can use a stack-based approach that helps 
     - Time complexity: O(n), where n is the number of bars in the histogram.
     - Space complexity: O(n) due to the use of the stack.
 
+## Learning Objectives:
 
-Resources:
+<!-- TODO
+The must be in a bullet point
+-->
+
+## Link:
 
 [Leetcode Link](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 
